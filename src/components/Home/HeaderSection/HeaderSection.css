@@ -1,0 +1,11 @@
+
+.headerSection{
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 70px 0px 70px 0px;
+}
+.imgContainer img{
+    width: 420px;
+}

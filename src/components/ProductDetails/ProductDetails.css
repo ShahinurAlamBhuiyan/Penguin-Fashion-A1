@@ -1,0 +1,12 @@
+.rootCard{
+    max-width: 345px;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.cardDetails{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+}

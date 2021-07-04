@@ -1,0 +1,24 @@
+.navMainDiv{
+    display:flex;
+    justify-content:space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    background-color:#d8cccc;
+}
+
+.navMainDiv .imgContainer{
+    margin-left: 40px;
+}
+
+.navMainDiv .imgContainer img{
+    height: 55px;
+}
+
+.item-link{
+    margin-right: 20px;
+    font-size: 20px;
+    font-weight: 500;
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+}

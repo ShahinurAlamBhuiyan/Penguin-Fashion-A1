@@ -1,0 +1,22 @@
+.productContainer{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.basketContainer{
+    cursor: pointer;
+}
+
+.basketCount{
+    font-size: 20px;
+    font-weight: 800;
+}
+
+.singleProductDiv{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}

@@ -1,0 +1,81 @@
+[{
+    "id": 1,
+    "productName": "Jephthah",
+    "productImg": "https://i.ibb.co/C5jQG0n/bag-1.png",
+    "productPrice": 76,
+    "productQuantity": 1,
+    "productDetails": "Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.",
+    "count": 1
+  }, {
+    "id": 2,
+    "productName": "Carline",
+    "productImg": "https://i.ibb.co/q1TpzT8/bag-2.png",
+    "productPrice": 79,
+    "productQuantity": 1,
+    "productDetails": "In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",
+    "count": 1
+  }, {
+    "id": 3,
+    "productName": "Son",
+    "productImg": "https://i.ibb.co/9GvN0Qq/bag-3.png",
+    "productPrice": 39,
+    "productQuantity": 3,
+    "productDetails": "In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.",
+    "count": 1
+  }, {
+    "id": 4,
+    "productName": "Dulcia",
+    "productImg": "https://i.ibb.co/jJgpK3x/bag1.png",
+    "productPrice": 52,
+    "productQuantity": 7,
+    "productDetails": "Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.",
+    "count": 1
+  }, {
+    "id": 5,
+    "productName": "Friedrick",
+    "productImg": "https://i.ibb.co/vB84fNP/bag2.png",
+    "productPrice": 17,
+    "productQuantity": 4,
+    "productDetails": "Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus.",
+    "count": 1
+  }, {
+    "id": 6,
+    "productName": "Bondon",
+    "productImg": "https://i.ibb.co/myK9GyW/bag3.png",
+    "productPrice": 76,
+    "productQuantity": 1,
+    "productDetails": "Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.",
+    "count": 1
+  }, {
+    "id": 7,
+    "productName": "Coreen",
+    "productImg": "https://i.ibb.co/4Ymbxwh/image-4.png",
+    "productPrice": 45,
+    "productQuantity": 10,
+    "productDetails": "Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.",
+    "count": 1
+  }, {
+    "id": 8,
+    "productName": "Heddie",
+    "productImg": "https://i.ibb.co/8xg1vjh/pngwing-1.png",
+    "productPrice": 43,
+    "productQuantity": 7,
+    "productDetails": "Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.",
+    "count": 1
+  }, {
+    "id": 9,
+    "productName": "Leighton",
+    "productImg": "https://i.ibb.co/6gtSKGX/pngwing-2.png",
+    "productPrice": 84,
+    "productQuantity": 9,
+    "productDetails": "Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.",
+    "count": 1
+  }, {
+    "id": 10,
+    "productName": "Theodosia",
+    "productImg": "https://i.ibb.co/FqN2sRt/pngwing-3.png",
+    "productPrice": 76,
+    "productQuantity": 10,
+    "productDetails": "Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.",
+    "count": 1
+  }]
